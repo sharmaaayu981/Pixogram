@@ -1,6 +1,9 @@
 # PIXOGRAM
 <img src ="Snapshots/main.png" width= "19%" height ="50%"> <img src ="Snapshots/login.png" width= "19%" height ="50%"> <img src ="Snapshots/homepage.png" width= "19%" height ="50%"> <img src ="Snapshots/upload.png" width= "19%" height ="50%">
-<img src ="Snapshots/mymedia.png" width= "19%" height ="50%">
+<img src ="Snapshots/mymedia.png" width= "19%" height ="50%"><br>
+<img src ="Snapshots/alluser.png" width= "19%" height ="50%"> <img src ="Snapshots/followers.png" width= "19%" height ="50%"> <img src ="Snapshots/following.png" width= "19%" height ="50%"> <img src ="Snapshots/myaccount.png" width= "19%" height ="50%">
+<img src ="Snapshots/block.png" width= "19%" height ="50%">
+
 
 
 
