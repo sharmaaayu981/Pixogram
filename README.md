@@ -16,18 +16,18 @@ The application comes with SignIn and SignUp flows which mean that if you're new
 
 
 ### Start with PIXOGRAM
-- Sign-in with Dialogflow and import [Template](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Template).
-- Set Up  Dialogflow Agent
-- Link Dialogflow Agent with Google Assistant.
-- Download the [Privacy Policy Document](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Privacy%20Policy) and change it according to your Assistant and upload it on Google Drive and make it public.
-- Set up Google Assistant Project
-- Deploy Project for Review
-- Test on your Device also ( Google Assistant , by using same Email on the Google Assistant)
+- Download or fork the project from github.
+- Setup the Node Module in Angular.( Frontend) 
+- Start the Microservice and main backend Service of Pixogram.
+- Make a new database in MYSQL named "Pixo_db".
+- Run Angular Project by ng serve in Cli. and local server will started on port 4200
+- In the Home window click on SIGN-UP and register the new user.
+- Click on LOGIN and start your journey with PIXOGRAM
 
 ### Key Points
-1. Setup your DialogFlow Agent by using the [Template](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Template).
-2. Setup Google Assistant Setup.
-3. Deploy the project for Review.
+1. You can Delete and Update the current User.
+2. Images and Gif's Can be uploaded.
+3. You can search , block , follow and follow back the User.
 
 
 
