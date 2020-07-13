@@ -9,7 +9,7 @@
 
 
 ## PIXOGRAM
-PIXOGRAM is an all new social media application which letsyou connect with people, upload images & videos and explore what's going around.
+PIXOGRAM is an all new social media application which let you connect with people, upload images & videos and explore what's going around.
 
 ### Features 
 The application comes with SignIn and SignUp flows which mean that if you're new to the platform, you'll have to create your account first to get going and if you're an existing user, you just can log in to the application and begin exploring. You can upload images and gif, you can follow and unfollow other users and more. You can also block users and unblock them whenever you want. You can also experience newsfeed.
@@ -20,7 +20,7 @@ The application comes with SignIn and SignUp flows which mean that if you're new
 - Setup the Node Module in Angular.( Frontend) 
 - Start the Microservice and main backend Service of Pixogram.
 - Make a new database in MYSQL named "Pixo_db".
-- Run Angular Project by ng serve in Cli. and local server will started on port 4200
+- Run Angular Project by ng serve in Cli and local server will started on port 4200
 - In the Home window click on SIGN-UP and register the new user.
 - Click on LOGIN and start your journey with PIXOGRAM
 
@@ -33,7 +33,6 @@ The application comes with SignIn and SignUp flows which mean that if you're new
 
 ### Contributing
 Please raise an issue of the requirement or problem in deploy the project so that a discussion can take before any step, even if you intend to raise a pull request.
-
 
 
 ### Contact Us
