@@ -43,7 +43,7 @@ Please raise an issue of the requirement or problem in deploy the project so tha
 ### Team
 - Ayush Sharma
 - Mohammed Saquib Ansari
--
+- Vikalp Chauhan
 -
 -
 -
