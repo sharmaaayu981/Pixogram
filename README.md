@@ -9,7 +9,7 @@
 
 
 ## PIXOGRAM
-PIXOGRAM is an all new social media application which let you connect with people, upload images & videos and explore what's going around.
+PIXOGRAM is an all-new social media application that lets you connect with people, upload images & videos, and explore what's going around.
 
 ### Features 
 The application comes with SignIn and SignUp flows which mean that if you're new to the platform, you'll have to create your account first to get going and if you're an existing user, you just can log in to the application and begin exploring. You can upload images and gif, you can follow and unfollow other users and more. You can also block users and unblock them whenever you want. You can also experience newsfeed.
