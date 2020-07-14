@@ -40,6 +40,15 @@ Please raise an issue of the requirement or problem in deploy the project so tha
 * [Email](test1email320@gmail.com)
 * [Twitter](https://twitter.com/i_ayush_sharma)
 
+### Team
+- Ayush Sharma
+-
+-
+-
+-
+-
+-
+
 ### MIT License
 
 Copyright (c) 2020 TEAM PIXO
