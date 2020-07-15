@@ -46,7 +46,7 @@ Please raise an issue of the requirement or problem in deploy the project so tha
 - Vikalp Chauhan
 - Mithlesh Singh Bisht
 - Veeresh Raj Bahri
--
+- Mahendra Naik
 -
 
 ### MIT License
